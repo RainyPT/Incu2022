@@ -7,7 +7,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "print(\"Hello wonderfull world\")"
+    "print(\"Hello amazing world!\")"
    ]
   }
  ],
